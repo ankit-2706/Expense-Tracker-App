@@ -31,9 +31,9 @@ The Expense Tracker App is a web-based application designed to assist users in t
   Ensure seamless usage on both desktop and mobile devices with an optimized and intuitive interface.
   Utilize React.js for building reusable UI components and managing state effectively.
 
-  ---
+---
 
-  ## Technical Architecture:
+  ## **Technical Architecture**
 
 ### Frontend:
 - **React.js**: Used for building the user interface.
