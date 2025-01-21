@@ -29,3 +29,22 @@ The Expense Tracker App is a web-based application designed to assist users in t
 
 - **Responsive User Interface**:  
   Ensure seamless usage on both desktop and mobile devices with an optimized and intuitive interface.
+  Utilize React.js for building reusable UI components and managing state effectively.
+
+  ---
+
+  ## Technical Architecture:
+
+### Frontend:
+- **React.js**: Used for building the user interface.
+- **Libraries**: Incorporated `tsparticle` for stunning background effects, and other libraries like `unique-names-generator`, `react-datepicker`, and `moment`.
+- **Responsive Design**: Implemented using CSS frameworks such as **Bootstrap** and **Material-Icons**.
+
+### Backend:
+- **Node.js and Express.js**: Built a RESTful API to handle client requests and serve as the backend.
+- **Authentication and Authorization**: Utilized **JSON Web Tokens (JWT)** and middleware for secure endpoint protection.
+
+### Database:
+- **MongoDB**: Used for storing user data, expense entries, and categories as a NoSQL database.
+- **Mongoose ORM**: Implemented for schema definition and validation.
+
