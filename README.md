@@ -60,29 +60,53 @@ git clone https://github.com/ankit-2706/Expense-Tracker-App.git
 ```
 ### Go to the project directory
 ```bash
-  cd Expense-Tracker-App
+cd Expense-Tracker-App
 ```
 ### Go to the frontend directory and Install dependencies
 ```bash
-    cd frontend
+cd frontend
 ```
 ```bash
-      npm install
+npm install
 ```
 ### Go to the backend directory and Install dependencies
 ```bash
-  cd backend
+cd backend
 ```
 ```bash
-  npm install
+npm install
 ```
 ### Start the frontend server
 ```bash
-  npm start
+npm start
 ```
 ### Start the backend server
 ```bash
-  npm run dev
+npm run dev
 ```
+
+---
+
+## Environment Variables
+
+To run this project, you will need to add the following environment variables to your `.env` file in the `backend` folder.
+
+Create a `config` folder and add a `config.env` file in it, then add all environment variables there:
+
+- **MONGO_URL**: Your MongoDB Connection String
+- **PORT**: Port number
+
+---
+
+## Tech Stack
+
+**Client**: React, Redux, react-bootstrap, Material Icons, tsparticles  
+**Server**: Node, Express  
+**Database**: MongoDB  
+
+---
+
+## ScreenShots
+
 
 
