@@ -110,6 +110,12 @@ Create a `config` folder and add a `config.env` file in it, then add all environ
 
 ![1](https://github.com/user-attachments/assets/d5b7e3f4-3a71-4016-aa83-175cf64b4099)
 ![2](https://github.com/user-attachments/assets/9704c44f-fc74-4966-96b3-c7527faa8f43)
+![3](https://github.com/user-attachments/assets/f0d09107-a36c-4e70-af74-91b066cc696e)
+![4](https://github.com/user-attachments/assets/54cebd49-9c40-4e81-90b2-bdeb98a2864b)
+![5](https://github.com/user-attachments/assets/78b5fcf2-e681-40d6-9186-5a97b7be79c9)
+
+
+
 
 
 
