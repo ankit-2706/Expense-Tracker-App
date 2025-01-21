@@ -1,4 +1,4 @@
-## ***Expense Tracker App using MERN stack***
+## **Expense Tracker App using MERN stack**
 
 # **Project Description**
 
