@@ -108,5 +108,10 @@ Create a `config` folder and add a `config.env` file in it, then add all environ
 
 ## ScreenShots
 
+![1](https://github.com/user-attachments/assets/d5b7e3f4-3a71-4016-aa83-175cf64b4099)
+![2](https://github.com/user-attachments/assets/9704c44f-fc74-4966-96b3-c7527faa8f43)
+
+
+
 
 
