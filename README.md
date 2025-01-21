@@ -47,14 +47,20 @@ The Expense Tracker App is a web-based application designed to assist users in t
 ### Database:
 - **MongoDB**: Used for storing user data, expense entries, and categories as a NoSQL database.
 - **Mongoose ORM**: Implemented for schema definition and validation.
+  
 
 ---
 
----
 
 ## Run Locally
 
 ### Clone the project
 ```bash
-git clone https://github.com/Priyanshu9898/Expense-Tracker-App
+git clone https://github.com/ankit-2706/Expense-Tracker-App.git
+```
+### Go to the project directory
+```bash
+  cd Expense-Tracker-App
+```
+
 
